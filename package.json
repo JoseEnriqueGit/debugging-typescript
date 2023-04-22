@@ -1,0 +1,16 @@
+{
+  "name": "debugging-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Index.ts",
+  "scripts": {
+    "build": "tsc Index.ts",
+    "start": "node dir/Index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MR",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
